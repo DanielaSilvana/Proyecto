@@ -1,0 +1,136 @@
+/* @font-face {
+    font-family: "Satisfy", cursive;
+    src: url(fonts/Satisfy/Satisfy-Regular.ttf);
+} */
+
+body{
+    /* background-color: bisque; */
+    background-color: #FFBF46;
+
+}
+
+
+h2{
+    text-align: center;
+    font-family: "Satisfy", cursive;
+    font-size: 80px;
+    /* background-color: aquamarine; */
+    background-color: #B5F8FE;
+    padding: 40px;
+    margin: 6px;
+
+
+}/*o lo dejo en h1?*/
+
+
+img{
+    /* border-radius: 50px; */
+    justify-content: center;
+    display: flex;
+
+}
+
+div.cita{
+    /* background-color: yellowgreen; */
+    background-color: #BC96E6;
+    font-family: "Special Elite";
+    font-style: italic;
+    font-size: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 4px;
+    padding: 5px;
+    display: flex;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
